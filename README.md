@@ -1,4 +1,4 @@
-# Compléments de programmation - TD 1
+# Compléments de programmation - TD 
 
 ## Remarques préliminaires
 * Pour l'ensemble des TDs, vous créerez un compte individuel sur [github](https://github.com/) si vous n'en possédez pas déjà un.
